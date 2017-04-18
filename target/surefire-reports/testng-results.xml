@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SimpleTest" duration-ms="12586" started-at="2017-04-18T12:55:19Z" finished-at="2017-04-18T12:55:32Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="12586" started-at="2017-04-18T12:55:19Z" finished-at="2017-04-18T12:55:32Z">
+      <class name="SimpleTest">
+        <test-method status="PASS" signature="NavigateToMyWebSite()" name="NavigateToMyWebSite" duration-ms="12572" started-at="2017-04-18T12:55:19Z" finished-at="2017-04-18T12:55:32Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

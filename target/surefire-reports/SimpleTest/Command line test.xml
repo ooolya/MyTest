@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="idea-PC" tests="1" failures="0" timestamp="18 Apr 2017 09:55:32 GMT" time="12.586" errors="0">
+  <testcase name="NavigateToMyWebSite" time="12.572" classname="SimpleTest"/>
+</testsuite>
